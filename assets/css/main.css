@@ -3479,3 +3479,8 @@ body.absolute_header .breadcrumb_area {
 }
 
 /* END: Modal CSS */
+
+.content-box>p{
+	text-decoration: none;
+	color: white;
+}
